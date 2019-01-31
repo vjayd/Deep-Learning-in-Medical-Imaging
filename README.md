@@ -1,6 +1,6 @@
 # Usefull links for deep learning in Medical Imaging
 
-## Segmentation
+
 
 
 ## Framework built on top of pytorch
